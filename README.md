@@ -7,7 +7,7 @@ Predicting human preferences between LLM responses with TF-IDF and multilingual 
 предсказание выбора пользователя между двумя ответами языковых моделей.
 
 **Kaggle score:** 1.03740 — multiclass log loss.  
-**Позиция:** 88 из 212 в текущей подвижной таблице на [дата].
+**Позиция:** 88 из 212 в текущей подвижной таблице на 11.09.26.
 
 [Соревнование](https://www.kaggle.com/competitions/llm-classification-finetuning)
 [Финальный Kaggle Notebook](https://www.kaggle.com/code/lyk1zm/04-transformer-submission)
